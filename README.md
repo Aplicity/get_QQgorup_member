@@ -17,10 +17,10 @@ https://qun.qq.com/member.html#gid=123456
 如果正常登陆页面，第一步需要扫码登陆。如果在电脑端已经登陆过QQ的话，则可以通过选择相应的QQ用户进行登陆。
 
 登陆后，页面的架构可能会有两种：一种是无群成员积分等级的，如下所示：
-![image]()
+![image](https://github.com/Aplicity/get_QQgorup_member/blob/master/images/%E6%97%A0%E7%BE%A4%E6%A0%87%E7%AD%BE.png)
 
 另外，一种有群成员积分等级的：
-![image]()
+![image](https://github.com/Aplicity/get_QQgorup_member/blob/master/images/%E6%9C%89%E7%BE%A4%E6%A0%87%E7%AD%BE.png)
 
 对于两种不同的架构，代码细节上有点出入。不过在本次实验中会识别出是否有群成员积分等级，再获取字段数据。
 
